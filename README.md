@@ -1,0 +1,2 @@
+# loggerServer
+Server logger application
